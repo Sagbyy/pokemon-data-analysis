@@ -1,0 +1,10 @@
+name: pokemon-data-analysis
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - scipy
+  - seaborn
+  - plotly
